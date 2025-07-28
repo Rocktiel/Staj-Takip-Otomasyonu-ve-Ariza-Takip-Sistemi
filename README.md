@@ -61,6 +61,8 @@ Ben ise bu projede C# ve MSSQL kullanarak sistem için backend servisleri geliş
 - Gerçek zamanlı durum takibi
 - PDF çıktısı alma
 - Kullanıcı rollerine özel dashboardlar (öğrenci, şirket, yönetici)
+- Öğrenci geçmiş satajlarına ,tamamlanana stajlarına veya devam eden staj başvurusuna bakabilir.
+- Yetkililer onayladığı başvuruları görebilir ve inceleyebilir.
 
 ---
 
@@ -119,14 +121,38 @@ Proje, **2024 yaz dönemi** itibariyle **Abant İzzet Baysal Üniversitesi Bilgi
 
 ---
 
-Canlı Proje: ![onlinemuhendislik.ibu.edu.tr](https://onlinemuhendislik.ibu.edu.tr/)
-Projenin Videoları: ![Proje Videoları](https://www.youtube.com/@ibubilgisayarmuhendisligi/videos)
+### Canlı Proje
+
+[onlinemuhendislik.ibu.edu.tr](https://onlinemuhendislik.ibu.edu.tr/)
+
+### Projenin Videoları
+
+[Proje Videoları](https://www.youtube.com/@ibubilgisayarmuhendisligi/videos)
 
 ---
 
 ## 🖼️ Ekran Görüntüleri
 
-## Giriş Ekranı
+## Staj Sistemi ve Takip Otomasyonu
 
-Ziyaretçilere sistemin işleyişi, özellikleri ve avantajları hakkında genel bir tanıtım sunar. Kullanıcıyı yönlendiren birinci temas noktasıdır.İşletmeleri keşfetme, paketleri inceleme ve sisteme giriş yapma seçeneklerini sunar.
+### Giriş Ekranı
+
 ![Giriş](./project_images/login_page.png)
+
+### Başvuru Ekranı
+
+![Başvuru](./project_images/basvuru_sayfasi.png)
+
+### Staj Takip Ekranı
+
+![Staj Takip](./project_images/staj_takip.png)
+
+## Arıza Takip Sistemi
+
+### Giriş Ekranı
+
+![Giriş](./project_images/login_page_fault_tracking.png)
+
+### Arıza Bildirme Ekranı
+
+![Arıza Bildirme](./project_images/create_fault.png)
